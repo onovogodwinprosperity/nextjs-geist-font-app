@@ -1,0 +1,3 @@
+> git add -A -- .
+error: 'user-workspace/jiji-clone/backend/' does not have a commit checked out
+fatal: adding files failed
